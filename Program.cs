@@ -14,7 +14,7 @@ namespace Bif3.Swe1.Oop {
             // https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/general-naming-conventions?redirectedfrom=MSDN
             // https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md
 
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! Liebe Grüße von if20b307");
 
             // different types of string concatenation & interpolation
             string someStringValue = "some value";
